@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "475660216407",
+    "project_id": "tombsiteapp",
+    "storage_bucket": "tombsiteapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475660216407:android:7ae8c2f7ebdf847f0a9b12",
+        "android_client_info": {
+          "package_name": "com.mycompany.tombsiteapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqjfgZh5ULbfIKptMsASuML8k5niKEbPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
